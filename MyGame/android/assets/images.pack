@@ -1,0 +1,20 @@
+
+images.png
+size: 270,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+button-down
+  rotate: false
+  xy: 0, 0
+  size: 135, 64
+  orig: 135, 64
+  offset: 0, 0
+  index: -1
+button-up
+  rotate: false
+  xy: 135, 0
+  size: 135, 64
+  orig: 135, 64
+  offset: 0, 0
+  index: -1
